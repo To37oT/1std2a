@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Figma : variables et affichage
-permalink: /figma/
+title: TP Sélection
+permalink: /tp1/
 published: true
 date: 2024
 ---
