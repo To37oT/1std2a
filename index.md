@@ -7,5 +7,4 @@ date: 2024
 
 # Cours STD2A
 
-[Chapitre 2 - Tableau, tuple et boucle for]({{site.baseurl}}/chapitre2/)<br>
-[Chapitre 3 - Les dictionnaires]({{site.baseurl}}/chapitre3/)<br>
+[TP1]({{site.baseurl}}/tp1/)<br>
