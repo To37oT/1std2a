@@ -12,13 +12,11 @@ date: 2024
 
 - Dans le menu Fichier, cliquez sur Nouveau.
 
-- Dans la boîte de dialogue qui s'est ouverte, tapez "Matte painting" comme nom pour votre document (à droite).
+- Dans la boîte de dialogue qui s'est ouverte, créer un nouveau document.
 
-- Choisissez **Film et vidéo**, puis **HDTV 720p/29,97**.
+![image](https://github.com/user-attachments/assets/9f9b336c-bc92-4120-86e8-6d3886531841)
 
 - Puis cliquez sur OK.
-
-![image](https://github.com/user-attachments/assets/bf796695-6795-4b23-8b5c-c4e56f27de4b)
 
 ## 2) Importer la première image
 
