@@ -12,4 +12,4 @@ date: 2024
 
 ## Illustrator
 
-[TP1]({{site.baseurl}}/illustrator/TP1/)<br>
+[TP1]({{site.baseurl}}/illustrator/tp1/)<br>
