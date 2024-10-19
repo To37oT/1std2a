@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TP1
+title: Les tracés Illustrator
 permalink: /tp1/
 published: true
 date: 2024
