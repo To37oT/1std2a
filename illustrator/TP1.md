@@ -1,6 +1,7 @@
 ---
 layout: default
 title: TP1
+permalink: /tp1/
 published: true
 date: 2024
 ---
