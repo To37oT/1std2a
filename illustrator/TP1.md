@@ -1,4 +1,12 @@
-#Mise en couleur de tracés
+---
+layout: default
+title: TP1
+published: true
+date: 2024
+---
+
+# Mise en couleur de tracés
+
 
 La mise en couleur est un processus récurrent du métier d’illustrateur et représente
 une part signifi cative de son travail. Sans reprendre toutes les étapes d’un cas pratique
