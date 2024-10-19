@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Les tracés Illustrator
-permalink: /ai-tp1/
+permalink: /illustrator/ai-tp1/
 published: true
 date: 2024
 ---
