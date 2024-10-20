@@ -9,4 +9,4 @@ date: 2024
 
 ## PARTIE 1 : Choisir ses couleurs
 
-- Ouvrir le document  [lapin.ai]({{site.baseurl}}/illustrator/lapin.ai/)
+- Ouvrir le document  [lapin.ai](lapin.ai)
