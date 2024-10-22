@@ -17,4 +17,4 @@ date: 2024
   
 ![image](https://github.com/user-attachments/assets/ee6b7fdd-ad54-4d31-a1f5-f095491b61e0)
 
-A l'aide d'un **cliquer-glisser** tout en maintenant la touche maj  nous allons dessiner la forme sur les pointillés
+A l'aide d'un **cliquer-glisser** tout en maintenant la touche maj <i class="fa-solid fa-arrow-up-from-bracket"></i> nous allons dessiner la forme sur les pointillés
