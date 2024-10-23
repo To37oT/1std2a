@@ -58,6 +58,22 @@ Le lapin a retrouvé son nez et son oeil
 
 > Qu'avons nous fait ? Nous avons déplacé le tracé tout en bas (comme nous aurions pu déplacer un calque tout en bas dans Photoshop)
 
-## D) Prélever des couleurs
+## D) Appliquer des couleurs
 
-avec pipette puis lapin libre.
+Nous avons déjà vu que pour appliquer une couleur, nous pouvons sélectionner une forme et définir la couleur dans la barre d'outils.
+
+Nous pouvons également appliquer une couleur à plusieurs forme d'un coup.
+
+- Sélectionner 4 pétales et leur appliquer la couleur #FFAA00
+
+![image](https://github.com/user-attachments/assets/e3ac91b1-7f89-484a-bc2a-9f13d94130e7)
+
+- Sélectionner maintenant un pétale non défini et lui appliquer la couleur #F9E606
+
+![image](https://github.com/user-attachments/assets/1d8c1c0b-cbf7-4eb6-b8d4-e37ac1229d8a)
+
+- Sélectionner ensuite l'outil pipette ![image](https://github.com/user-attachments/assets/1cd0039c-45fe-48da-a2e8-96ce6084c18b)
+- Cliquer sur le pétale jaune
+- En maintenant la touche ```ALT``` enfoncée (l'icone de la pipette change alors) cliquer sur les autres pétales
+![image](https://github.com/user-attachments/assets/a56d1f5c-fff1-4248-bda6-42901c9997d7)
+
