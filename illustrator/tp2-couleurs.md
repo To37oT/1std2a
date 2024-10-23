@@ -5,31 +5,52 @@ permalink: /illustrator/ai-tp2-couleurs/
 published: true
 date: 2024
 ---
-# Illustrator : Les tracés
 
-
-## PARTIE 1 : Préparer ses couleurs
-
-- Ouvrir le document  [lapin.ai](lapin.ai)
-
-
-
-## PARTIE 1 : Préparer ses couleurs
+# Illustrator : Les couleurs
 
 - Ouvrir le document  [lapin.ai](lapin.ai)
   
 ![image](https://github.com/user-attachments/assets/2bddc700-5258-4cd9-8206-08ff3590559a)
 
-1 - Dans le menu fenêtre, activer les panneaux "couleur", "Guide des couleurs" et "Nuancier".
+## A) Couleur de fond et de contour
 
-![image](https://github.com/user-attachments/assets/35bfb13c-60df-423d-87e1-f8de33c0ed22)
+La barre d'outil permet de régler pour chaque forme :
+- La couleur du fond
+- La couleur du contour
 
-2 - Dans le panneau "Nuancier"
-- Ouvrir le menu
-- Cliquer sur "Sélectionner les nuances non utilisées"
-- Cliquer sur "Supprimer le nuancier", cela devrait supprimer la plupart des couleurs
-- Supprimer à la main les dernières couleurs sauf le répérage, le noir et le blanc.
+Puis d'appliquer à la selection :
+- Une couleur unie
+- Un dégradé
+- De la transparence
 
-  ![image](https://github.com/user-attachments/assets/333b0096-e78a-4952-8bd7-d43f48753f66)
+![image](https://github.com/user-attachments/assets/79c0c74b-e3ac-417e-8254-eb242fb64cf3)
 
-3 - Sélectionner un tracé
+## B) Premier plan et arrière plan
+
+Un document vectoriel possède beaucoup de tracés, ces tracés sont organisés dans des calques (contrairement à Photoshop qui est composé de calque organisé à l'aide de dossier).
+
+![image](https://github.com/user-attachments/assets/05078027-c0e2-4903-b9ea-176524d99678)
+
+Le fichier du lapin est composé de plus de 40 tracés.
+
+- Sélectionner le corps du lapin
+![image](https://github.com/user-attachments/assets/baa792e5-2a56-4476-b754-feb125b83f4a)
+
+À gauche, on remarque que le lapin est composé d'un contour noir et d'un fond transparent.
+
+![image](https://github.com/user-attachments/assets/fda267d8-0748-4328-aad7-38f8e39d5231)
+
+- Double cliquer sur le carré du fond, définir le gris RVB(150,150,150) et valider.
+
+![image](https://github.com/user-attachments/assets/d2965e47-6c0e-497c-81c5-5b87c344f9d4)
+
+On remarque que l'oeil et le nez ont "disparu". Ils sont tout simplement masqués par la couleur du fond du corps du lapin.
+
+- Faire clic-droit sur le corps du lapin, puis choisir "Disposition" > "Arrière plan"
+
+![image](https://github.com/user-attachments/assets/adaa9349-e8d7-4cc0-833a-04fb187cf8ed)
+
+Le lapin a retrouvé son nez et son oeil
+
+![image](https://github.com/user-attachments/assets/487be425-69f9-42fd-bc15-a2663392be0e)
+
