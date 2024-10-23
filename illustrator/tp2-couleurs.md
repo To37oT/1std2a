@@ -25,13 +25,7 @@ Puis d'appliquer à la selection :
 
 ![image](https://github.com/user-attachments/assets/79c0c74b-e3ac-417e-8254-eb242fb64cf3)
 
-## B) Premier plan et arrière plan
-
-Un document vectoriel possède beaucoup de tracés, ces tracés sont organisés dans des calques (contrairement à Photoshop qui est composé de calque organisé à l'aide de dossier).
-
-![image](https://github.com/user-attachments/assets/05078027-c0e2-4903-b9ea-176524d99678)
-
-Le fichier du lapin est composé de plus de 40 tracés.
+## B) Choisir une couleur
 
 - Sélectionner le corps du lapin
 ![image](https://github.com/user-attachments/assets/baa792e5-2a56-4476-b754-feb125b83f4a)
@@ -46,6 +40,14 @@ Le fichier du lapin est composé de plus de 40 tracés.
 
 On remarque que l'oeil et le nez ont "disparu". Ils sont tout simplement masqués par la couleur du fond du corps du lapin.
 
+## C) Premier plan et arrière plan
+
+Un document vectoriel possède beaucoup de tracés, ces tracés sont organisés dans des calques (contrairement à Photoshop qui est composé de calque organisé à l'aide de dossier).
+
+![image](https://github.com/user-attachments/assets/05078027-c0e2-4903-b9ea-176524d99678)
+
+Le fichier du lapin est composé de plus de 40 tracés.
+
 - Faire clic-droit sur le corps du lapin, puis choisir "Disposition" > "Arrière plan"
 
 ![image](https://github.com/user-attachments/assets/adaa9349-e8d7-4cc0-833a-04fb187cf8ed)
@@ -54,3 +56,8 @@ Le lapin a retrouvé son nez et son oeil
 
 ![image](https://github.com/user-attachments/assets/487be425-69f9-42fd-bc15-a2663392be0e)
 
+> Qu'avons nous fait ? Nous avons déplacé le tracé tout en bas (comme nous aurions pu déplacer un calque tout en bas dans Photoshop)
+
+## D) Prélever des couleurs
+
+avec pipette puis lapin libre.
