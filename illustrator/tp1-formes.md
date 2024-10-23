@@ -52,7 +52,3 @@ date: 2024
 
 ##### A faire
 > Tenter de réaliser cette 3ème forme grâce aux outils déjà vus et à l'outil ellipse
-
-
-Pas faire le robots ?
-Faire d'abord le lapin ?
