@@ -17,7 +17,7 @@ date: 2024
   
 ![image](https://github.com/user-attachments/assets/ee6b7fdd-ad54-4d31-a1f5-f095491b61e0)
 
-- A l'aide d'un **cliquer-glisser** tout en maintenant la touche **maj** <i class="fas fa-arrow-up"></i> nous allons dessiner la forme sur les pointillés.
+- À l'aide d'un **cliquer-glisser** tout en maintenant la touche **maj** <i class="fas fa-arrow-up"></i> nous allons dessiner la forme sur les pointillés.
 
   > Maintenir **maj** <i class="fas fa-arrow-up"></i> permet de contraindre le rectangle pour en faire un carré
 
@@ -34,11 +34,11 @@ date: 2024
   
 ![image](https://github.com/user-attachments/assets/9755d1ff-96e2-4116-99eb-0fd8f52c2c5c)
 
-- A l'aide d'un **cliquer-glisser** tout en maintenant la touche **maj** <i class="fas fa-arrow-up"></i> dessiner un hexagone (forme par défaut)
+- À l'aide d'un **cliquer-glisser** tout en maintenant la touche **maj** <i class="fas fa-arrow-up"></i> dessiner un hexagone (forme par défaut)
 
 ![image](https://github.com/user-attachments/assets/b88e8890-fb0e-45af-bdd6-06d0a29dd0de)
 
-- Cliquer sur le petit losange à droite va nous permettre de configurer le nombre de côté de notre forme. Le passer à 3.
+- Cliquer sur le petit losange à droite va nous permettre de configurer le nombre de côtés de notre forme. Le passer à 3.
  
 ![image](https://github.com/user-attachments/assets/75560f18-69f7-4e34-b065-d60d6d91228b)
 
