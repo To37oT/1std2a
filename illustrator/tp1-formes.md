@@ -9,7 +9,7 @@ date: 2024
 
 - Ouvrir le document  [formes.ai](formes.ai)
 
-![image](https://github.com/user-attachments/assets/de44df30-6701-439a-b667-4b451b18c5cc)
+![image](https://github.com/user-attachments/assets/4d0fc69f-f7ef-41d5-ac81-05391a3552d8)
 
 ## A) Première forme
 
