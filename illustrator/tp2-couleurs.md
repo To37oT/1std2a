@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Les tracés Illustrator
+title: Les couleurs
 permalink: /illustrator/ai-tp2-couleurs/
 published: true
 date: 2024
