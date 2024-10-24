@@ -12,5 +12,7 @@ date: 2024
 
 ##### À FAIRE
 > Uniquement à l'aide de forme géométrique, reproduire le robot.
-> Vous avez à votre disposition une image du robot terminé, ainsi qu'un shéma de tous les tracés.
 > 
+> Vous avez à votre disposition une image du robot terminé, ainsi qu'un shéma de tous les tracés.
+>
+> Les couleurs du robot sont libres, mais les "creux" devront être gardés (et de la couleur du fond)
