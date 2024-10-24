@@ -14,5 +14,7 @@ date: 2024
 
 [TP1 - Les formes]({{site.baseurl}}/illustrator/ai-tp1-forme/)<br>
 [TP2 - Les couleurs]({{site.baseurl}}/illustrator/ai-tp2-couleurs/)<br>
+[TP3 - APPLICATION "Robot"]({{site.baseurl}}/illustrator/ai-tp3-robot/)<br>
+
 
 
