@@ -7,7 +7,7 @@ date: 2024
 ---
 # Illustrator : Les formes
 
-- Ouvrir le document  [formes.ai](formes.ai)
+- Ouvrir le document  [tp1-formes.ai](tp1-formes.ai)
 
 ![image](https://github.com/user-attachments/assets/4d0fc69f-f7ef-41d5-ac81-05391a3552d8)
 
