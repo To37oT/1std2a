@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Les tracés Illustrator
+title: Les formes
 permalink: /illustrator/ai-tp1-forme/
 published: true
 date: 2024
