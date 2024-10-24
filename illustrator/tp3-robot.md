@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Robot
+title: Activité robot
 permalink: /illustrator/ai-tp3-robot/
 published: true
 date: 2024
