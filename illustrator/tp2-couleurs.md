@@ -14,11 +14,11 @@ date: 2024
 
 ## A) Couleur de fond et de contour
 
-La barre d'outil permet de régler pour chaque forme :
+La barre d'outils permet de régler pour chaque forme :
 - La couleur du fond
 - La couleur du contour
 
-Puis d'appliquer à la selection :
+Puis d'appliquer à la sélection :
 - Une couleur unie
 - Un dégradé
 - De la transparence
@@ -40,7 +40,7 @@ Puis d'appliquer à la selection :
 
 On remarque que l'oeil et le nez ont "disparu". Ils sont tout simplement masqués par la couleur du fond du corps du lapin.
 
-## C) Premier plan et arrière plan
+## C) Premier plan et arrière-plan
 
 Un document vectoriel possède beaucoup de tracés, ces tracés sont organisés dans des calques (contrairement à Photoshop qui est composé de calque organisé à l'aide de dossier).
 
@@ -48,7 +48,7 @@ Un document vectoriel possède beaucoup de tracés, ces tracés sont organisés 
 
 Le fichier du lapin est composé de plus de 40 tracés.
 
-- Faire clic-droit sur le corps du lapin, puis choisir "Disposition" > "Arrière plan"
+- Faire clic droit sur le corps du lapin, puis choisir "Disposition" > "Arrière plan"
 
 ![image](https://github.com/user-attachments/assets/adaa9349-e8d7-4cc0-833a-04fb187cf8ed)
 
@@ -56,13 +56,13 @@ Le lapin a retrouvé son nez et son oeil
 
 ![image](https://github.com/user-attachments/assets/487be425-69f9-42fd-bc15-a2663392be0e)
 
-> Qu'avons nous fait ? Nous avons déplacé le tracé tout en bas (comme nous aurions pu déplacer un calque tout en bas dans Photoshop)
+> Qu'avons-nous fait ? Nous avons déplacé le tracé tout en bas (comme nous aurions pu déplacer un calque tout en bas dans Photoshop)
 
 ## D) Appliquer des couleurs
 
 Nous avons déjà vu que pour appliquer une couleur, nous pouvons sélectionner une forme et définir la couleur dans la barre d'outils.
 
-Nous pouvons également appliquer une couleur à plusieurs forme d'un coup.
+Nous pouvons également appliquer une couleur à plusieurs formes d'un coup.
 
 - Sélectionner 4 pétales et leur appliquer la couleur #FFAA00
 
@@ -74,6 +74,11 @@ Nous pouvons également appliquer une couleur à plusieurs forme d'un coup.
 
 - Sélectionner ensuite l'outil pipette ![image](https://github.com/user-attachments/assets/1cd0039c-45fe-48da-a2e8-96ce6084c18b)
 - Cliquer sur le pétale jaune
-- En maintenant la touche ```ALT``` enfoncée (l'icone de la pipette change alors) cliquer sur les autres pétales
+- En maintenant la touche ```ALT``` enfoncée (l'icône de la pipette change alors) cliquer sur les autres pétales
+ 
 ![image](https://github.com/user-attachments/assets/a56d1f5c-fff1-4248-bda6-42901c9997d7)
+
+##### A FAIRE
+>
+>Terminer le lapin, en ajustant si nécessaire la position des tracés pour qu'ils soient tous visibles
 
