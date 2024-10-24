@@ -8,7 +8,7 @@ date: 2024
 
 # Illustrator : Les couleurs
 
-- Ouvrir le document  [lapin.ai](lapin.ai)
+- Ouvrir le document  [tp2-lapin.ai](tp2-lapin.ai)
   
 ![image](https://github.com/user-attachments/assets/2bddc700-5258-4cd9-8206-08ff3590559a)
 
