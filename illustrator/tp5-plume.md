@@ -82,4 +82,22 @@ Lorsque le tracé suit un mouvement fluide, les lignes directrices sont relative
 
 ![image](https://github.com/user-attachments/assets/69059835-b0c5-4727-aceb-f7c2a0511980)
 
+## D) Exercice 4  : Supprimer/ajouter une ligne directrice
 
+- Partir comme les exercices précédents pour le premier point et le deuxième
+
+![image](https://github.com/user-attachments/assets/0ee03124-a8df-4ced-8823-cf2836b7fd69)
+
+- En passant la souris sur le second point, un chevron doit appraitre. Cliquer.
+
+![image](https://github.com/user-attachments/assets/8b5a7966-75bc-49f3-9fae-d37df3b4da72)
+
+Cela va nous permettre de placer le 3ème point en ligne droite en supprimant la ligne directrice vers celui-ci.
+
+- Placer le 3ème point en cliquant.
+
+- Pour ajouter une ligne directrice à ce 3ème point, nous utiliserons aussi le symbole chevron de la plume. Cliquer-glisser pour tracer la ligne directrice.
+
+![image](https://github.com/user-attachments/assets/e7ce1b60-7e0e-4fae-b6de-67252681013e)
+
+- Terminer le tracé.
