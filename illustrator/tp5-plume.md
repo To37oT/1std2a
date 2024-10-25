@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Les couleurs
+title: La plume
 permalink: /illustrator/ai-tp5-plume/
 published: true
 date: 2024
