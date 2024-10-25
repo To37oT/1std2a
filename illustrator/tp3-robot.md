@@ -16,3 +16,5 @@ date: 2024
 > Vous avez à votre disposition une image du robot terminé, ainsi qu'un shéma de tous les tracés.
 >
 > Les couleurs du robot sont libres, mais les "creux" devront être gardés (et de la couleur du fond)
+>
+> ENREGISTRER VOTRE FICHIER POUR LE RÉUTILISER PLUS TARD
