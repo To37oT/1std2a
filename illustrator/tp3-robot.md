@@ -8,7 +8,7 @@ date: 2024
 
 # Illustrator : ACTIVITÉ
 
-- Ouvrir le document [robot.ai](robot.ai)
+- Ouvrir le document [tp3-robot.ai](tp3-robot.ai)
 
 ##### À FAIRE
 > Uniquement à l'aide de forme géométrique, reproduire le robot.
