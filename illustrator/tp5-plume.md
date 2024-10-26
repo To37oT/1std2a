@@ -100,4 +100,6 @@ Cela va nous permettre de placer le 3ème point en ligne droite en supprimant la
 
 ![image](https://github.com/user-attachments/assets/e7ce1b60-7e0e-4fae-b6de-67252681013e)
 
-- Terminer le tracé.
+- Terminer le tracé de l'exercice.
+
+![image](https://github.com/user-attachments/assets/5f753ccb-3cd9-4600-b910-99ec20eafb73)
