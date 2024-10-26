@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Les couleurs
+title: Combiner des formes
 permalink: /illustrator/ai-tp4-combiner-des-formes/
 published: true
 date: 2024
