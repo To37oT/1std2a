@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Combiner des formes
-permalink: /illustrator/ai-tp4-combiner-des-formes/
+permalink: /illustrator/ai-tp4-train/
 published: true
 date: 2024
 ---
