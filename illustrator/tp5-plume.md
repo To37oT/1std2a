@@ -4,6 +4,7 @@ title: La plume
 permalink: /illustrator/ai-tp5-plume/
 published: true
 date: 2024
+commentaire : temps estimé 1h
 ---
 
 # Illustrator : La plume
@@ -103,3 +104,8 @@ Cela va nous permettre de placer le 3ème point en ligne droite en supprimant la
 - Terminer le tracé de l'exercice.
 
 ![image](https://github.com/user-attachments/assets/5f753ccb-3cd9-4600-b910-99ec20eafb73)
+
+
+##### A FAIRE
+> Réaliser les exercices 5 et 6 en réutilisant les différentes techniques découvertes.
+> Penser à mettre la couleur de fond en transparent afin qu'elle ne vous pose pas de problème.      
