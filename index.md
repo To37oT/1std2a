@@ -17,5 +17,4 @@ date: 2024
 [TP3 - APPLICATION "Robot"]({{site.baseurl}}/illustrator/ai-tp3-robot/)<br>
 [TP4 - Combiner des formes]({{site.baseurl}}/illustrator/ai-tp4-train/)<br>
 [TP5 - La plume]({{site.baseurl}}/illustrator/ai-tp5-plume/)<br>
-
-
+[TP6 - Reproduction]({{site.baseurl}}/illustrator/ai-tp6-reproduction/)<br>
