@@ -1,20 +1,20 @@
 ---
 layout: default
-title: La plume
-permalink: /illustrator/ai-tp5-plume/
+title: Reproduire un dessin
+permalink: /illustrator/ai-tp6-reproduction/
 published: true
 date: 2024
 commentaire : temps estimé 1h
 ---
 
-# Illustrator : La plume
+# Illustrator : Reproduire un dessin en vectoriel
 
-La plume est l'outil incontournable du dessin vectoriel. Cet outil est utilisé dans la création de courbes, appelée également courbes de Bézier. La maitrise de la plume s'acquiert après quelques heures de pratique. C'est le seul outil qui permet de garantir un tracé précis, on le retrouve aujourd'hui dans tous les logiciels Adobe.
+Illustrator et les outils que nous avons découverts vont permettre de transformer des dessins en vectoriel.
 
-- Ouvrir le document  [tp5-plume.ai](tp5-plume.ai)
+- Ouvrir le document  [tp6-ourson.ai](tp6-ourson.ai)
   
-![image](https://github.com/user-attachments/assets/95ea7a5a-8055-4662-91b1-d60b0340bdbe)
+![image](https://github.com/user-attachments/assets/85bf88a6-8d8d-478f-bee0-eec99fe35741)
 
-Dans ce document, nous allons apporendre à manipuler la plume à travers la réalisation de divers tracés
 
-## A) Exercice 1 : Tracé d'une courbe simple
+##### A FAIRE
+> Reproduire l'ourson en vectoriel en utilisant les outils des précédents TP.
