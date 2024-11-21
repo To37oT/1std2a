@@ -11,7 +11,7 @@ commentaire : temps estimé 1h
 
 Illustrator et les outils que nous avons découverts vont permettre de transformer des dessins en vectoriel.
 
-- Ouvrir le document  [tp6-ourson.ai](tp6-ourson.ai)
+- Ouvrir le document  [tp6-ourson.jpg](../tp6-ourson.jpg)
   
 ![image](https://github.com/user-attachments/assets/85bf88a6-8d8d-478f-bee0-eec99fe35741)
 
