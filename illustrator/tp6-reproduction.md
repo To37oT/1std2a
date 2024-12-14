@@ -20,3 +20,8 @@ Illustrator et les outils que nous avons découverts vont permettre de transform
 
 ##### A FAIRE
 > Reproduire l'ourson en vectoriel en utilisant les outils des précédents TP.
+
+##### ENTRAINEMENT AU DEVOIR
+> Dans le dossier "reproduction" se trouve des images à reproduire, elles vous permettent de vous entrainer et de progresser.
+> Vous pouvez également choisir votre propre image/dessin pour vous entrainer.
+> Vous devez être capable de reproduire une image précisément en utilisant les formes géométrique, la plume, le pathfinder et l'application de couleurs. Le nombre de points doit être pertinent (pas de points trop rapprochés)
