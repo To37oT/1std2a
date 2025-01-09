@@ -31,3 +31,41 @@ commentaire : temps estimé 2h
 
 ![image](https://github.com/user-attachments/assets/c1935b99-7cd4-4a68-b12d-867711f0f975)
 
+- Le carré peut ensuite être supprimé
+
+- Tracer ensuite une forme non fermée avec la plume, alignée à droite avec le centre des cercles
+
+![image](https://github.com/user-attachments/assets/7d8d5948-49e6-4afc-9115-8d011ba862af)
+
+
+## 2 - Répétition des tracés
+
+- Sélectionner le tracé ouvert, puis choisir l'outil "miroir" dans la barre d'outil 
+
+![image](https://github.com/user-attachments/assets/1f244102-2739-44c7-b7d5-3aa74d0afa9a)
+
+- Cliquer ensuite en maintenant ```Alt``` sur l'extrémité droite du tracé pour ouvrir la fenêtre "miroir". Choisir "Vertical" puis "copier".
+
+![image](https://github.com/user-attachments/assets/bf82274a-0e7f-4aeb-8c76-fcf4dc18fd03)
+
+- Avec l'outil "flèche blanche" ![image](https://github.com/user-attachments/assets/855cd6e4-46cb-43d7-8a75-3af06c10bf43) faire un cadre de sélection pour sélectionner les 2 points confondu des 2 tracés ouverts.
+
+![image](https://github.com/user-attachments/assets/f0571207-ab92-4d8f-b099-bc91e4d068eb)
+
+- Joindre les points avec ```Ctrl``` + ```J```
+
+Les tracés ainsi joints ont permit de réunir les 2 formes ouvertes.
+
+- Avec la flèche noire ![image](https://github.com/user-attachments/assets/10cb5b00-e7cd-4dbc-acac-785c3c3bc517) et la touche ```Maj```, sélectionner le tracé ouvert et le plus petit cercle.
+
+![image](https://github.com/user-attachments/assets/5d693807-4d8b-44e3-af4b-287d05db5b4b)
+
+- Choisir l'outil "rotation" dans les outils ![image](https://github.com/user-attachments/assets/b98c85b0-a0ae-4066-a46a-39d456131458) puis cliquer en maintenant la touche ```Alt``` sur le centre des grands cercles.
+
+![image](https://github.com/user-attachments/assets/605d6cd8-cabe-4ba6-b4c4-ee9f369c2140)
+
+- Choisir 90° et copier.
+
+- Puis afin de répéter cette action 2 fois, faire 2 fois ```Ctrl``` + ```D```
+
+- Sélectionner uniquement les 4 petits cercles, puis cliquer sur Objet > Transformation > Rotation pour créer une rotation de 45° des cercles et obtenir la configuration finale. (Ne pas copier cette fois ci mais valider par "OK")
