@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reproduire un dessin
-permalink: /illustrator/ai-tp6-reproduction
+permalink: /illustrator/ai-tp6-reproduction/
 published: true
 date: 2024
 commentaire : temps estimé 1h
