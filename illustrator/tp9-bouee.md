@@ -69,3 +69,15 @@ Les tracés ainsi joints ont permit de réunir les 2 formes ouvertes.
 - Puis afin de répéter cette action 2 fois, faire 2 fois ```Ctrl``` + ```D```
 
 - Sélectionner uniquement les 4 petits cercles, puis cliquer sur Objet > Transformation > Rotation pour créer une rotation de 45° des cercles et obtenir la configuration finale. (Ne pas copier cette fois ci mais valider par "OK")
+
+ ![image](https://github.com/user-attachments/assets/8c1eedfc-0d45-4a83-8e94-f62780981a95)
+
+ ## 3 - Générer les formes
+
+- Sélectionner les 6 cercles. Dans le panneau Pathfinder choisir le bouton "Division" pour découper les cercles à chaque intersection.
+
+![image](https://github.com/user-attachments/assets/591e898f-1fed-42ec-a488-c42c47f1a664)
+![image](https://github.com/user-attachments/assets/fe0aa234-85b3-4898-afaf-44327f1e656c)
+![image](https://github.com/user-attachments/assets/419e1804-d4bf-4ca0-b55c-c4ed289b7d2b)
+![image](https://github.com/user-attachments/assets/cb2f4c0a-e29d-4f93-9024-2573430ddf1a)
+
