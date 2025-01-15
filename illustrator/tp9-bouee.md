@@ -135,3 +135,42 @@ Les tracés ainsi joints ont permit de réunir les 2 formes ouvertes.
 - Refaire les mêmes étapes en rouge pour le reste de la bouée.
 
 ![image](https://github.com/user-attachments/assets/edd6ed5d-723e-4098-ae41-b30db942f14e)
+
+ ##  - Créer une forme de motif
+
+- Avec l'outil plume créer un trait (quelques cm)
+
+![image](https://github.com/user-attachments/assets/6b4b3fb8-9809-41ae-bf6b-8b25d46e41e8)
+
+- Dans le menu choisir "Effet > Distorsion et transformation > Zigzag".
+
+![image](https://github.com/user-attachments/assets/982d83f0-46a1-4a09-a5f3-38948233f1cd)
+
+![image](https://github.com/user-attachments/assets/3e4e8622-5864-44fd-a9bc-cbfc720fd022)
+
+- Décomposer le tracé en choisissant "Objet > Décomposer l'aspect", pour obtenir une forme vectorielle. 
+
+- Utiliser l'outil "Ciseaux" sur les points d'ancrage pour découper la forme et ne garder qu'une seule période.
+
+![image](https://github.com/user-attachments/assets/4f02e039-48a3-40f3-9bcb-461af794eb62)
+
+![image](https://github.com/user-attachments/assets/1d23b12f-25ed-4035-901f-dcb4c1c95813)
+
+- Sélectionné le tracé et choisir "Objet > Transformation > Miroir" pour dupliquer et créer l'enroulement opposé (choisir "copier")
+
+![image](https://github.com/user-attachments/assets/2002c97e-e039-4109-bf46-747ba5430b27)
+
+![image](https://github.com/user-attachments/assets/3e8bb4b3-c1a0-4c10-ad6d-365528256a4c)
+
+- Sélectionner les 2 tracés et en maintenant la touche ```ALT``` les déplacer à droite pour les dupliquer dans l'alignement des premiers tracés.
+
+![image](https://github.com/user-attachments/assets/179f6535-6083-4308-a67d-8266c2c1a272)
+
+- Avec l'outil "Ciseaux" ne garder que la partie répétitive de la corde (pour découper certains tracés, il sera nécessaire de les mettre au premier plan).
+
+![image](https://github.com/user-attachments/assets/9143b73d-6043-4515-9db8-f10562e1c848)
+
+- Sélectionner les 2 points à gauche (sélection directe, flèche blanche) pour les relier avec ```CTRL``` + ```J```
+
+![image](https://github.com/user-attachments/assets/22bb2d59-7c23-4640-ba6c-086f1c5e54e6)
+ 
