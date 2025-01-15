@@ -74,10 +74,64 @@ Les tracés ainsi joints ont permit de réunir les 2 formes ouvertes.
 
  ## 3 - Générer les formes
 
-- Sélectionner les 6 cercles. Dans le panneau Pathfinder choisir le bouton "Division" pour découper les cercles à chaque intersection.
+- Sélectionner les 6 cercles. Dans le panneau Pathfinder choisir le bouton "Division" pour découper les cercles à chaque intersection et en faire des formes fermées.
 
 ![image](https://github.com/user-attachments/assets/591e898f-1fed-42ec-a488-c42c47f1a664)
+
 ![image](https://github.com/user-attachments/assets/fe0aa234-85b3-4898-afaf-44327f1e656c)
+
 ![image](https://github.com/user-attachments/assets/419e1804-d4bf-4ca0-b55c-c4ed289b7d2b)
+
+- Cela va automatiquement fabriquer un groupe (qui contiendra toutes vos formes). Pour supprimer le groupe, le sélectionner et cliquer dans le menu sur "objet > Dissocier".
+
 ![image](https://github.com/user-attachments/assets/cb2f4c0a-e29d-4f93-9024-2573430ddf1a)
 
+- Supprimer les restes extérieurs des petits cercles.
+
+![image](https://github.com/user-attachments/assets/00a845cf-7a80-4eee-8338-8abadd7a091e)
+
+- Sélectionner les formes fermées (tout sauf les bouts de corde).
+- Choisir un dégradé radial dans le panneau nuancier.
+
+![image](https://github.com/user-attachments/assets/3c34aae0-aba3-4078-9ea0-cde8572f7c57)
+
+-Choisir ensuite l'outil dégradé, les éléments précédents encore sélectionnés, et tracé un trait horizontal du centre vers l'extérieur afin de créer un dégradé commun.
+
+![image](https://github.com/user-attachments/assets/0852bae3-94cf-4f6a-b80b-c1aedd6c706f)
+
+ ## 4 - Appliquer les dégradés
+
+ - Dans le panneau nuancier, créer un nouveau groupe de couleur
+
+![image](https://github.com/user-attachments/assets/a7f3dbe0-c99f-4276-8270-6b35450ded09)
+
+- Dans la barre d'outil, créer une nouvelle couleur RVB : (0, 159, 227)
+  
+![image](https://github.com/user-attachments/assets/fc676b9e-15fc-498e-a5d2-0ec7128f6008)
+
+- Ajouter cette nuance dans le groupe du nuancier précédemment créé.
+
+![image](https://github.com/user-attachments/assets/e99d0fdc-8756-4d9a-b4d9-feaecd81e236)
+
+- Reproduire ces étapes pour la couleur RVB : (227, 6, 19)
+
+![image](https://github.com/user-attachments/assets/0235c841-7523-4826-8cb5-d23950099a54)
+
+- Sélectionner 4 parties de la bouée : le haut, le bas, la droite et la gauche
+
+![image](https://github.com/user-attachments/assets/28354e32-1fe4-4423-bef7-881dbcf3371f)
+
+- Ouvrir la fenêtre dégradé
+
+![image](https://github.com/user-attachments/assets/e6ee7b6c-5f15-40a3-b8f7-dcc1cd0ee64e)
+
+- En double cliquant sur les rond noir, appliquer la couleur bleu (précédamment défini) aux extrémité et blanc au centre.
+- Mettre l'opacité à 100% si ce n'est pas le cas sur chacun des points.
+
+![image](https://github.com/user-attachments/assets/793f4618-d0fd-4258-9be9-84ae5d7ea03a)
+
+![image](https://github.com/user-attachments/assets/5ed82b50-633e-4742-9ca2-50c33f452372)
+
+- Refaire les mêmes étapes en rouge pour le reste de la bouée.
+
+![image](https://github.com/user-attachments/assets/edd6ed5d-723e-4098-ae41-b30db942f14e)
