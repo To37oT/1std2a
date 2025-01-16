@@ -7,7 +7,7 @@ date: 2024
 commentaire : temps estimé 2h
 ---
 
-# Illustrator : 8 étapes pour mieux maîtriser Illustrator
+# Illustrator : 5 étapes pour mieux maîtriser Illustrator
 
 ![image](https://github.com/user-attachments/assets/b1e005b1-09de-4a67-b6e2-fbcccb7df38d)
 
