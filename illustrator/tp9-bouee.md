@@ -203,7 +203,7 @@ Les tracés ainsi joints ont permis de réunir les 2 formes ouvertes.
 
 ![image](https://github.com/user-attachments/assets/1b9199ea-780c-4dc3-99e6-484287445fb6)
 
-- Ouvrir le panneau contour, sélectionner le contour pour en ajouter un autre, blanc.
+- Ouvrir la fenêtre "Aspect", sélectionner le contour pour en ajouter un autre, blanc.
 
 ![image](https://github.com/user-attachments/assets/5653cd47-d7c1-4e13-b307-2969147a63c1)
 
