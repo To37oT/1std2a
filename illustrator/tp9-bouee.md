@@ -15,17 +15,17 @@ commentaire : temps estimé 2h
 ## 1 - Création des tracés de base
 
 - Créer un nouveau document
-- Vérifier que les repères commentées sont bien activées
-- Tracer 2 cercles (fond vide, contour noir) de tailles différentes (en maintenant ```Maj``` pour contraindre une élipse à être un cercle)
-- La fenêtre "alignement" vous permet d'aligner les cercles pour qu'ils soient concentrique
+- Vérifier que les repères commentés sont bien activés
+- Tracer 2 cercles (fond vide, contour noir) de tailles différentes (en maintenant ```Maj``` pour contraindre une éllipse à être un cercle)
+- La fenêtre "alignement" vous permet d'aligner les cercles pour qu'ils soient concentriques
 
 ![image](https://github.com/user-attachments/assets/4f793cc9-fe46-4cd8-9b7b-7f84b5ecffcf)
 
-- Tracer un rectangle entre les 2 cercles de manière à pouvoir trouver plus facilement le milieu de nos 2 cercles. (les repères commentées permettent de trouver facilement les accroches pour ce rectangle, il ne faut rien de sélectionné pour que cela fonctionne)
+- Tracer un rectangle entre les 2 cercles de manière à pouvoir trouver plus facilement le milieu de nos 2 cercles. (les repères commentés permettent de trouver facilement les accroches pour ce rectangle, il ne faut rien de sélectionné pour que cela fonctionne)
 
 ![image](https://github.com/user-attachments/assets/d029d3b8-7302-408a-9b86-75427459b0ce)
 
-- A partir du milieu, tracer un nouveau cercle en maintenant les touches ```Maj``` (forcer les proportions parfaite) et ```Alt``` (construire le cercle à partir de son centre).
+- À partir du milieu, tracer un nouveau cercle en maintenant les touches ```Maj``` (forcer les proportions parfaites) et ```Alt``` (construire le cercle à partir de son centre).
 
 ![image](https://github.com/user-attachments/assets/9a5c35eb-7adf-4d35-a40e-e59aac3dcf98)
 
@@ -40,7 +40,7 @@ commentaire : temps estimé 2h
 
 ## 2 - Répétition des tracés
 
-- Sélectionner le tracé ouvert, puis choisir l'outil "miroir" dans la barre d'outil 
+- Sélectionner le tracé ouvert, puis choisir l'outil "miroir" dans la barre d'outils
 
 ![image](https://github.com/user-attachments/assets/1f244102-2739-44c7-b7d5-3aa74d0afa9a)
 
@@ -48,13 +48,13 @@ commentaire : temps estimé 2h
 
 ![image](https://github.com/user-attachments/assets/bf82274a-0e7f-4aeb-8c76-fcf4dc18fd03)
 
-- Avec l'outil "flèche blanche" ![image](https://github.com/user-attachments/assets/855cd6e4-46cb-43d7-8a75-3af06c10bf43) faire un cadre de sélection pour sélectionner les 2 points confondu des 2 tracés ouverts.
+- Avec l'outil "flèche blanche" ![image](https://github.com/user-attachments/assets/855cd6e4-46cb-43d7-8a75-3af06c10bf43) faire un cadre de sélection pour sélectionner les 2 points confondus des 2 tracés ouverts.
 
 ![image](https://github.com/user-attachments/assets/f0571207-ab92-4d8f-b099-bc91e4d068eb)
 
 - Joindre les points avec ```Ctrl``` + ```J```
 
-Les tracés ainsi joints ont permit de réunir les 2 formes ouvertes.
+Les tracés ainsi joints ont permis de réunir les 2 formes ouvertes.
 
 - Avec la flèche noire ![image](https://github.com/user-attachments/assets/10cb5b00-e7cd-4dbc-acac-785c3c3bc517) et la touche ```Maj```, sélectionner le tracé ouvert et le plus petit cercle.
 
@@ -68,13 +68,13 @@ Les tracés ainsi joints ont permit de réunir les 2 formes ouvertes.
 
 - Puis afin de répéter cette action 2 fois, faire 2 fois ```Ctrl``` + ```D```
 
-- Sélectionner uniquement les 4 petits cercles, puis cliquer sur Objet > Transformation > Rotation pour créer une rotation de 45° des cercles et obtenir la configuration finale. (Ne pas copier cette fois ci mais valider par "OK")
+- Sélectionner uniquement les 4 petits cercles, puis cliquer sur Objet > Transformation > Rotation pour créer une rotation de 45° des cercles et obtenir la configuration finale. (Ne pas copier cette fois-ci mais valider par "OK")
 
  ![image](https://github.com/user-attachments/assets/8c1eedfc-0d45-4a83-8e94-f62780981a95)
 
  ## 3 - Générer les formes
 
-- Sélectionner les 6 cercles. Dans le panneau Pathfinder choisir le bouton "Division" pour découper les cercles à chaque intersection et en faire des formes fermées.
+- Sélectionner les 6 cercles. Dans le panneau Pathfinder, choisir le bouton "Division" pour découper les cercles à chaque intersection et en faire des formes fermées.
 
 ![image](https://github.com/user-attachments/assets/591e898f-1fed-42ec-a488-c42c47f1a664)
 
@@ -95,7 +95,7 @@ Les tracés ainsi joints ont permit de réunir les 2 formes ouvertes.
 
 ![image](https://github.com/user-attachments/assets/3c34aae0-aba3-4078-9ea0-cde8572f7c57)
 
--Choisir ensuite l'outil dégradé, les éléments précédents encore sélectionnés, et tracé un trait horizontal du centre vers l'extérieur afin de créer un dégradé commun.
+-Choisir ensuite l'outil dégradé, les éléments précédents encore sélectionnés, et tracer un trait horizontal du centre vers l'extérieur afin de créer un dégradé commun.
 
 ![image](https://github.com/user-attachments/assets/0852bae3-94cf-4f6a-b80b-c1aedd6c706f)
 
@@ -105,7 +105,7 @@ Les tracés ainsi joints ont permit de réunir les 2 formes ouvertes.
 
 ![image](https://github.com/user-attachments/assets/a7f3dbe0-c99f-4276-8270-6b35450ded09)
 
-- Dans la barre d'outil, créer une nouvelle couleur RVB : (0, 159, 227)
+- Dans la barre d'outils, créer une nouvelle couleur RVB : (0, 159, 227)
   
 ![image](https://github.com/user-attachments/assets/fc676b9e-15fc-498e-a5d2-0ec7128f6008)
 
@@ -121,11 +121,11 @@ Les tracés ainsi joints ont permit de réunir les 2 formes ouvertes.
 
 ![image](https://github.com/user-attachments/assets/28354e32-1fe4-4423-bef7-881dbcf3371f)
 
-- Ouvrir la fenêtre dégradé
+- Ouvrir la fenêtre "dégradé de couleur"
 
 ![image](https://github.com/user-attachments/assets/e6ee7b6c-5f15-40a3-b8f7-dcc1cd0ee64e)
 
-- En double cliquant sur les rond noir, appliquer la couleur bleu (précédamment défini) aux extrémité et blanc au centre.
+- En double cliquant sur les ronds noirs, appliquer la couleur bleue (précédemment défini) aux extrémité et blanc au centre.
 - Mettre l'opacité à 100% si ce n'est pas le cas sur chacun des points.
 
 ![image](https://github.com/user-attachments/assets/793f4618-d0fd-4258-9be9-84ae5d7ea03a)
@@ -142,7 +142,7 @@ Les tracés ainsi joints ont permit de réunir les 2 formes ouvertes.
 
 ![image](https://github.com/user-attachments/assets/6b4b3fb8-9809-41ae-bf6b-8b25d46e41e8)
 
-- Dans le menu choisir "Effet > Distorsion et transformation > Zigzag".
+- Dans le menu, choisir "Effet > Distorsion et transformation > Zigzag".
 
 ![image](https://github.com/user-attachments/assets/982d83f0-46a1-4a09-a5f3-38948233f1cd)
 
@@ -162,11 +162,11 @@ Les tracés ainsi joints ont permit de réunir les 2 formes ouvertes.
 
 ![image](https://github.com/user-attachments/assets/3e8bb4b3-c1a0-4c10-ad6d-365528256a4c)
 
-- Sélectionner les 2 tracés et en maintenant la touche ```ALT``` les déplacer à droite pour les dupliquer dans l'alignement des premiers tracés. La touche ```Maj``` et les repère commentés permettent de guider la duplication.
+- Sélectionner les 2 tracés et en maintenant la touche ```ALT``` les déplacer à droite pour les dupliquer dans l'alignement des premiers tracés. La touche ```Maj``` et les repères commentés permettent de guider la duplication.
 
 ![image](https://github.com/user-attachments/assets/179f6535-6083-4308-a67d-8266c2c1a272)
 
-- Avec l'outil "Ciseaux" ne garder que la partie répétitive de la corde (pour découper certains tracés, il sera nécessaire de les mettre au premier plan).
+- Avec l'outil "Ciseaux", ne garder que la partie répétitive de la corde (pour découper certains tracés, il sera nécessaire de les mettre au premier plan).
 
 ![image](https://github.com/user-attachments/assets/9143b73d-6043-4515-9db8-f10562e1c848)
 
@@ -179,7 +179,7 @@ Les tracés ainsi joints ont permit de réunir les 2 formes ouvertes.
 
 ![image](https://github.com/user-attachments/assets/1b27e264-7e1d-4a75-9736-785ac17bb22e)
 
-- Cliquer sur l'outil réunion du pathfinder avec cette nouvelle forme sélectionnée pour ne garder que le contour.
+- Cliquer sur l'outil réunion du Pathfinder avec cette nouvelle forme sélectionnée pour ne garder que le contour.
 
 ![image](https://github.com/user-attachments/assets/7e58e08b-5062-447f-93cb-66cf6c08bd5d)
 
@@ -199,7 +199,7 @@ Les tracés ainsi joints ont permit de réunir les 2 formes ouvertes.
 
 ![image](https://github.com/user-attachments/assets/f8a44b32-b7ba-41b5-8662-a8f62d318912)
 
-- Sélectionner un seul des tracés ouvert
+- Sélectionner un seul des tracés ouverts
 
 ![image](https://github.com/user-attachments/assets/1b9199ea-780c-4dc3-99e6-484287445fb6)
 
@@ -207,7 +207,7 @@ Les tracés ainsi joints ont permit de réunir les 2 formes ouvertes.
 
 ![image](https://github.com/user-attachments/assets/5653cd47-d7c1-4e13-b307-2969147a63c1)
 
-- Puis la commande "effets > distorsion et transformation > transformation" va permettre de décaller légèrement ce contour.
+- Puis la commande "effets > distorsion et transformation > transformation" va permettre de décaler légèrement ce contour.
 
 ![image](https://github.com/user-attachments/assets/ad99486c-b0e4-4ba3-8951-24e9d795d64a)
 
@@ -220,15 +220,15 @@ Les tracés ainsi joints ont permit de réunir les 2 formes ouvertes.
 
 ![image](https://github.com/user-attachments/assets/6de90ca6-fe2f-4baf-b2dc-47f0f24b69da)
 
-- Un rectangle sans fond ni contour est tracé, calé sur les points d'ancrage de la forme de la corde. **Mettre cette forme en arrière plan**, elle nous servira de cadre pour la génération du motif.
+- Un rectangle sans fond ni contour est tracé, calé sur les points d'ancrage de la forme de la corde. **Mettre cette forme en arrière-plan**, elle nous servira de cadre pour la génération du motif.
 
 ![image](https://github.com/user-attachments/assets/9116f166-be57-4a09-8970-2bb895454dae)
 
-- Afficher la fenêtre "Formes". Faire glisser dedans l'ensemble de la forme de la corde. Choisr "Forme de motif". Aucun paramètre nécessaire vous pouvez valider.
+- Afficher la fenêtre "Formes". Faire glisser dedans l'ensemble de la forme de la corde. Choisir "Forme de motif". Aucun paramètre nécessaire, vous pouvez valider.
 
 ![image](https://github.com/user-attachments/assets/3dfa2f14-61d1-4ad1-a8ba-d755e971e484)
 
 - Sélectionner les 4 morceaux de corde autour de votre bouée est cliquer sur le motif qui vient d'être réalisé dans la fenêtre "Forme".
-- L'épaisseur de la corde peut être réglé dans la fenêtre "Contours".
+- L'épaisseur de la corde peut être réglée dans la fenêtre "Contours".
 
 ![image](https://github.com/user-attachments/assets/2ecab78f-7c6c-4d6d-9548-9740a397546e)
