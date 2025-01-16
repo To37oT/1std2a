@@ -162,7 +162,7 @@ Les tracés ainsi joints ont permit de réunir les 2 formes ouvertes.
 
 ![image](https://github.com/user-attachments/assets/3e8bb4b3-c1a0-4c10-ad6d-365528256a4c)
 
-- Sélectionner les 2 tracés et en maintenant la touche ```ALT``` les déplacer à droite pour les dupliquer dans l'alignement des premiers tracés.
+- Sélectionner les 2 tracés et en maintenant la touche ```ALT``` les déplacer à droite pour les dupliquer dans l'alignement des premiers tracés. La touche ```Maj``` et les repère commentés permettent de guider la duplication.
 
 ![image](https://github.com/user-attachments/assets/179f6535-6083-4308-a67d-8266c2c1a272)
 
@@ -170,7 +170,65 @@ Les tracés ainsi joints ont permit de réunir les 2 formes ouvertes.
 
 ![image](https://github.com/user-attachments/assets/9143b73d-6043-4515-9db8-f10562e1c848)
 
-- Sélectionner les 2 points à gauche (sélection directe, flèche blanche) pour les relier avec ```CTRL``` + ```J```
-
+- Sélectionner les 2 points à gauche qui se touchent (sélection directe, flèche blanche) pour les relier avec ```CTRL``` + ```J```
+- Faire la même chose à droite.
+  
 ![image](https://github.com/user-attachments/assets/22bb2d59-7c23-4640-ba6c-086f1c5e54e6)
  
+- Faire une copie de ce bloc, et fermer les tracés à gauche et à droite avec l'outil plume.
+
+![image](https://github.com/user-attachments/assets/1b27e264-7e1d-4a75-9736-785ac17bb22e)
+
+- Cliquer sur l'outil réunion du pathfinder avec cette nouvelle forme sélectionnée pour ne garder que le contour.
+
+![image](https://github.com/user-attachments/assets/7e58e08b-5062-447f-93cb-66cf6c08bd5d)
+
+- Appliquer à cette forme la couleur RVB (243, 146, 0) et supprimer le contour.
+
+![image](https://github.com/user-attachments/assets/c678cade-2c93-4486-922b-9aaedafede3c)
+
+- Créer un rectangle blanc et sans contour sur cette forme
+
+![image](https://github.com/user-attachments/assets/7931091e-fcfb-4d85-bff1-35d2bf691f80)
+
+- Sélectionner les 2 tracés (orange et rectangle blanc), puis dans le menu choisir "Objet > Dégradé de formes > Créer". (Il est possible de configurer ce dégradé dans "Objet > Dégradé de formes > Options de dégradés")
+
+![image](https://github.com/user-attachments/assets/a90f6e8f-fd4b-43b7-bcc0-6b794643cfe7)
+
+- Déplacer le tracé original sur la forme, au premier plan.
+
+![image](https://github.com/user-attachments/assets/f8a44b32-b7ba-41b5-8662-a8f62d318912)
+
+- Sélectionner un seul des tracés ouvert
+
+![image](https://github.com/user-attachments/assets/1b9199ea-780c-4dc3-99e6-484287445fb6)
+
+- Ouvrir le panneau contour, sélectionner le contour pour en ajouter un autre, blanc.
+
+![image](https://github.com/user-attachments/assets/5653cd47-d7c1-4e13-b307-2969147a63c1)
+
+- Puis la commande "effets > distorsion et transformation > transformation" va permettre de décaller légèrement ce contour.
+
+![image](https://github.com/user-attachments/assets/ad99486c-b0e4-4ba3-8951-24e9d795d64a)
+
+![image](https://github.com/user-attachments/assets/8d7cdd2e-ffa6-4b2a-a0d7-af88008094d1)
+
+- Afin de dupliquer cet effet sur l'autre tracé ouvert, nous allons utiliser la pipette.
+- Double cliquer sur l'outil pipette, cocher la case "aspect" des 2 côtés.
+- Cliquer avec la pipette sur le tracé où l'on vient d'ajouter un contour.
+- avec la touche ```ALT``` maintenue, cliquer ensuite sur le tracé qui n'a pas encore de bordure blanche.
+
+![image](https://github.com/user-attachments/assets/6de90ca6-fe2f-4baf-b2dc-47f0f24b69da)
+
+- Un rectangle sans fond ni contour est tracé, calé sur les points d'ancrage de la forme de la corde. **Mettre cette forme en arrière plan**, elle nous servira de cadre pour la génération du motif.
+
+![image](https://github.com/user-attachments/assets/9116f166-be57-4a09-8970-2bb895454dae)
+
+- Afficher la fenêtre "Formes". Faire glisser dedans l'ensemble de la forme de la corde. Choisr "Forme de motif". Aucun paramètre nécessaire vous pouvez valider.
+
+![image](https://github.com/user-attachments/assets/3dfa2f14-61d1-4ad1-a8ba-d755e971e484)
+
+- Sélectionner les 4 morceaux de corde autour de votre bouée est cliquer sur le motif qui vient d'être réalisé dans la fenêtre "Forme".
+- L'épaisseur de la corde peut être réglé dans la fenêtre "Contours".
+
+![image](https://github.com/user-attachments/assets/2ecab78f-7c6c-4d6d-9548-9740a397546e)
