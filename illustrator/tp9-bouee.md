@@ -82,7 +82,7 @@ Les tracés ainsi joints ont permis de réunir les 2 formes ouvertes.
 
 ![image](https://github.com/user-attachments/assets/419e1804-d4bf-4ca0-b55c-c4ed289b7d2b)
 
-- Cela va automatiquement fabriquer un groupe (qui contiendra toutes vos formes). Pour supprimer le groupe, le sélectionner et cliquer dans le menu sur "objet > Dissocier".
+- Cela va automatiquement fabriquer un groupe (qui contiendra toutes vos formes). Pour décomposer le groupe, le sélectionner et cliquer dans le menu sur "objet > Dissocier".
 
 ![image](https://github.com/user-attachments/assets/cb2f4c0a-e29d-4f93-9024-2573430ddf1a)
 
