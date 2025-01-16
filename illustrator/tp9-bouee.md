@@ -179,7 +179,7 @@ Les tracés ainsi joints ont permis de réunir les 2 formes ouvertes.
 
 ![image](https://github.com/user-attachments/assets/1b27e264-7e1d-4a75-9736-785ac17bb22e)
 
-- Cliquer sur l'outil réunion du Pathfinder avec cette nouvelle forme sélectionnée pour ne garder que le contour.
+- Cliquer sur l'outil réunion du Pathfinder avec cette nouvelle forme sélectionnée pour ne garder que le contour. Si besoin supprimer les points en trop à gauche et à droite.
 
 ![image](https://github.com/user-attachments/assets/7e58e08b-5062-447f-93cb-66cf6c08bd5d)
 
