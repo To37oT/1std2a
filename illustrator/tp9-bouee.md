@@ -15,7 +15,7 @@ commentaire : temps estimé 2h
 ## 1 - Création des tracés de base
 
 - Créer un nouveau document
-- Vérifier que les repères commentés sont bien activés
+- Vérifier que les repères commentés sont bien activés (Affichage > Repères commentés)
 - Tracer 2 cercles (fond vide, contour noir) de tailles différentes (en maintenant ```Maj``` pour contraindre une éllipse à être un cercle)
 - La fenêtre "alignement" vous permet d'aligner les cercles pour qu'ils soient concentriques
 
